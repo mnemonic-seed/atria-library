@@ -6,7 +6,7 @@ Licensor: Pulsy Labs LLC
 
 Licensed Work: Pulsy Atria Library
 
-Additional Use Grant: You may use the Licensed Work solely to run Pulsy Atria Library feeds via Pulsy's Atria Cloud service or Pulsy-authorized self-hosted deployments for your internal use. Any other production or commercial hosting, offering as a service, or competitive use is prohibited.
+Additional Use Grant: You may use the Licensed Work solely to run Pulsy Atria Library feeds via Pulsy's Atria Cloud service or Pulsy-authorized self-hosted deployments for your internal use. You may also analyze the Licensed Work with machine learning systems (including LLMs) for non-production evaluation, documentation, or prompt/assistant generation, provided outputs are not used to host, offer, or compete with Pulsy services and you retain clear Pulsy attribution when sharing derived materials. Any other production or commercial hosting, offering as a service, or competitive use is prohibited.
 
 Change Date: None
 

@@ -20,4 +20,5 @@ Reach out to [sales@pulsy.app](mailto:sales@pulsy.app) for tailored feed enginee
 
 ## License
 
-This repository is licensed under the Business Source License 1.1 by Pulsy Labs LLC. You may use it solely to run Pulsy Atria Library feeds via Pulsy's Atria Cloud service or Pulsy-authorized self-hosted deployments for your internal use. Any other production or commercial hosting, offering as a service, or competitive use is prohibited. There is currently no Change Date or Change License; the BSL terms apply indefinitely until Pulsy publishes otherwise.
+- Core library: Business Source License 1.1 by Pulsy Labs LLC (see `LICENSE`). Production use is limited to Pulsy's allowed deployments; the Additional Use Grant also permits non-production LLM/ML analysis (docs/prompt generation) with Pulsy attribution.
+- Examples and documented use cases: `examples/` are under Creative Commons Attribution 4.0 International (CC BY 4.0) — feel free to share/adapt/ingest with Pulsy credit.
